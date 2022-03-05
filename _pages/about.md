@@ -25,8 +25,8 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 
 
 # 🔥 News
-- *2022.03*: &nbsp;🎉🎉 I have been admitted to the Direct Doctorate programme in the ETH Zurich Department of Computer Science. 
-- *2022.03*: &nbsp;🎉🎉 Our paper NICE-SLAM is accepted to CVPR 2022!. 
+- *2022.03*: &nbsp;🎉🎉 I have been admitted to the Direct Doctorate programme in the ETH Zurich Department of Computer Science!
+- *2022.03*: &nbsp;🎉🎉 Our paper NICE-SLAM is accepted to CVPR 2022! 
 
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
