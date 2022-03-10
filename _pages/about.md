@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang University majoring in Computer Science. My research interest lies in the intersection between computer vision and computer graphics. 
+
 <!-- I am fortunate to work -->
 <!-- In particular, I am interested in practical problems related to character animation. -->
 
