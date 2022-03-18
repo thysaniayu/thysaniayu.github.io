@@ -38,7 +38,7 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/nice-slam/teaser.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://arxiv.org/pdf/2112.12130.pdf), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](http://people.inf.ethz.ch/vlarsson/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Marc Pollefeys](https://inf.ethz.ch/personal/marc.pollefeys/)
+[NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://arxiv.org/pdf/2112.12130.pdf), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](http://people.inf.ethz.ch/vlarsson/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)
 
 ( * equal contribution)
 
