@@ -19,22 +19,28 @@ redirect_from:
 # About Me
 My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang University majoring in Computer Science. My research interest lies in the intersection between computer vision and computer graphics. 
 
-<!-- I am fortunate to work -->
-<!-- In particular, I am interested in practical problems related to character animation. -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0ffZwQ8AAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0ffZwQ8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
 # 🔥 News
 - *2022.03*: &nbsp;🎉🎉 One paper conditionally accepted to SIGGRAPH 2022 (journal track)!
 - *2022.03*: &nbsp;🎉🎉 I have been admitted to the Direct Doctorate programme in the ETH Zurich Department of Computer Science!
 - *2022.03*: &nbsp;🎉🎉 Our paper NICE-SLAM is accepted to CVPR 2022! 
 
 # 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2018.09 - 2022.06(expected)*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou, China. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><img src='https://superxjm.github.io/source_files/Neural%20Indoor.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Scalable Neural Indoor Scene Rendering](https://xchaowu.github.io/), [Xiuchao Wu\*](https://xchaowu.github.io/), [Jiamin Xu\*](https://superxjm.github.io/), **Zihan Zhu**, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [James Tompkin](https://jamestompkin.com/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+
+( * equal contribution)
+
+**SIGGRAPH, 2022 (Journal track)** \| [**Project**](https://xchaowu.github.io/) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- A scalable neural scene reconstruction and rendering method to support distributed training and interactive rendering of large indoor scenes.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/nice-slam/teaser.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +58,7 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><img src='images/ibrsig21.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Scalable Image-based Indoor Scene Rendering with Reflections](https://yangzzzy.github.io/PDF/reflectiveIBR21.pdf), Jiamin Xu, Xiuchao Wu, **Zihan Zhu**, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Yin Yang](https://yangzzzy.github.io/), [Hujun Bao](), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+[Scalable Image-based Indoor Scene Rendering with Reflections](https://yangzzzy.github.io/PDF/reflectiveIBR21.pdf), [Jiamin Xu](https://superxjm.github.io/), [Xiuchao Wu](https://xchaowu.github.io/), **Zihan Zhu**, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Yin Yang](https://yangzzzy.github.io/), [Hujun Bao](), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
 ACM Transactions on Graphics (TOG) 40 (4), 1-14 (**SIGGRAPH 2021**) | [**Project**](https://dl.acm.org/doi/10.1145/3450626.3459849) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
