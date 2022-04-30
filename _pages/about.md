@@ -32,11 +32,11 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><img src='https://superxjm.github.io/source_files/Neural%20Indoor.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Scalable Neural Indoor Scene Rendering](https://xchaowu.github.io/), [Xiuchao Wu\*](https://xchaowu.github.io/), [Jiamin Xu\*](https://superxjm.github.io/), **Zihan Zhu**, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [James Tompkin](https://jamestompkin.com/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+[Scalable Neural Indoor Scene Rendering](https://xchaowu.github.io/papers/scalable-nisr/), [Xiuchao Wu\*](https://xchaowu.github.io/), [Jiamin Xu\*](https://superxjm.github.io/), **Zihan Zhu**, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [James Tompkin](https://jamestompkin.com/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
 ( * equal contribution)
 
-**SIGGRAPH, 2022 (Journal track)** \| [**Project**](https://xchaowu.github.io/) 
+ACM Transactions on Graphics (TOG) 41, 4 (**SIGGRAPH 2022**) | [**Project**](https://xchaowu.github.io/papers/scalable-nisr/) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - A scalable neural scene reconstruction and rendering method to support distributed training and interactive rendering of large indoor scenes.
 </div>
@@ -45,7 +45,7 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/nice-slam/teaser.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://arxiv.org/pdf/2112.12130.pdf), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](http://people.inf.ethz.ch/vlarsson/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)
+[NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://arxiv.org/pdf/2112.12130.pdf), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](https://vlarsson.github.io/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)
 
 ( * equal contribution)
 
@@ -60,7 +60,7 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 
 [Scalable Image-based Indoor Scene Rendering with Reflections](https://yangzzzy.github.io/PDF/reflectiveIBR21.pdf), [Jiamin Xu](https://superxjm.github.io/), [Xiuchao Wu](https://xchaowu.github.io/), **Zihan Zhu**, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Yin Yang](https://yangzzzy.github.io/), [Hujun Bao](), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
-ACM Transactions on Graphics (TOG) 40 (4), 1-14 (**SIGGRAPH 2021**) | [**Project**](https://dl.acm.org/doi/10.1145/3450626.3459849) 
+ACM Transactions on Graphics (TOG) 40, 4 (**SIGGRAPH 2021**) | [**Project**](https://dl.acm.org/doi/10.1145/3450626.3459849) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - An image-based rendering method that can be applied to large-scale indoor scenes with reflections.
 </div>
