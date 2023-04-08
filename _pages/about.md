@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang University majoring in Computer Science. My research interest lies in the intersection between computer vision and computer graphics. 
+My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) student at ETH Zurich in Computer Science, supervised by Prof. Marc Pollefeys. I obtained my Bachelor degree at [Zhejiang University](https://www.zju.edu.cn/english/). My research interest lies in the intersection between computer vision and computer graphics. 
 
 # 🔥 News
 - *2022.03*: &nbsp;🎉🎉 One paper conditionally accepted to SIGGRAPH 2022 (journal track)!
@@ -25,7 +25,8 @@ My name is Zihan Zhu (朱紫涵). I am an undergraduate student at Zhejiang Univ
 - *2022.03*: &nbsp;🎉🎉 Our paper NICE-SLAM is accepted to CVPR 2022! 
 
 # 📖 Educations
-- *2018.09 - 2022.06(expected)*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou, China. 
+- *2022.09 - present*, Direct Doctorate, Department of Computer Science, ETH Zurich, Zurich, Switzerland. 
+- *2018.09 - 2022.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou, China. 
 
 # 📝 Publications 
 
@@ -83,3 +84,9 @@ ACM Transactions on Graphics (TOG) 40, 4 (**SIGGRAPH 2021**) | [**Project**](htt
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 💻 Academic Services
+Conference Reviewer: CVPR, ICCV, ICRA
+
+Journal Reviewer: T-RO, RA-L
+

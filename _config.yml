@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zihan Zhu (朱紫涵)"
-description              : "Undergraduate student at Zhejiang University. "
+description              : " Direct Doctorate student at ETH Zurich. "
 repository               : "Zzh2000/Zzh2000.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  cbc4f30a4ec1213f334ed83d4c77f446 # get baidu_site_ve
 author:
   name             : "Zihan Zhu (朱紫涵)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Zhejiang, China"
+  bio              : "ETH Zurich"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0ffZwQ8AAAAJ&hl=en"
-  email            : "zihan.zhu@zju.edu.cn"
+  email            : "zihzhu@ethz.ch"
   researchgate     : "https://www.researchgate.net/profile/Zihan_Zhu8"
   cv               : "files/CV.pdf"
   uri              :
@@ -38,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : Zzh2000 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : www.linkedin.com/in/zihan-zhu-eth # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
