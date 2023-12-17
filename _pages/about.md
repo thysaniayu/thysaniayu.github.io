@@ -20,6 +20,7 @@ redirect_from:
 My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) student at ETH Zurich in Computer Science, supervised by Prof. Marc Pollefeys. I obtained my Bachelor degree at [Zhejiang University](https://www.zju.edu.cn/english/). My research interest lies in the intersection between computer vision and computer graphics. 
 
 # 🔥 News
+- *2023.11*: &nbsp;🎉🎉 Our paper NICER-SLAM is accepted to 3DV 2024! 
 - *2022.03*: &nbsp;🎉🎉 One paper conditionally accepted to SIGGRAPH 2022 (journal track)!
 - *2022.03*: &nbsp;🎉🎉 I have been admitted to the Direct Doctorate programme in the ETH Zurich Department of Computer Science!
 - *2022.03*: &nbsp;🎉🎉 Our paper NICE-SLAM is accepted to CVPR 2022! 
@@ -29,6 +30,19 @@ My name is Zihan Zhu (朱紫涵). I’m currently a [Direct Doctorate](https://i
 - *2018.09 - 2022.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou, China. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/nicer_teaser.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM](https://nicer-slam.github.io), **Zihan Zhu\***, [Songyou Peng\*](https://pengsongyou.github.io), [Viktor Larsson](https://vlarsson.github.io/), [Zhaopeng Cui](https://zhpcui.github.io/), [Martin R Oswald](http://people.inf.ethz.ch/moswald/), [Andreas Geiger](https://www.cvlibs.net/), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)
+
+( * equal contribution)
+
+**3DV, 2024 (Oral)** | [**Project**](https://nicer-slam.github.io) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- **RGB-only** version of our [**NICE-SLAM**](http://pengsongyou.github.io/nice-slam), making it NICE**R**.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='https://superxjm.github.io/source_files/Neural%20Indoor.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -86,7 +100,7 @@ ACM Transactions on Graphics (TOG) 40, 4 (**SIGGRAPH 2021**) | [**Project**](htt
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 💻 Academic Services
-Conference Reviewer: CVPR, ICCV, ICRA
+Conference Reviewer: CVPR, ICCV, ICRA, SIGGRAPH Asia, 3DV
 
-Journal Reviewer: T-RO, RA-L
+Journal Reviewer: T-RO, RA-L, TVCG
 
