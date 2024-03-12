@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zihan Zhu (朱紫涵)"
+title                    : "Tian Yu"
 description              : " Direct Doctorate student at ETH Zurich. "
 repository               : "Zzh2000/Zzh2000.github.io"
 google_scholar_stats_use_cdn : false
@@ -23,8 +23,8 @@ baidu_site_verification  :  cbc4f30a4ec1213f334ed83d4c77f446 # get baidu_site_ve
 author:
   name             : "Zihan Zhu (朱紫涵)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ETH Zurich"
-  location         : "Zurich, Switzerland"
+  bio              : ""
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0ffZwQ8AAAAJ&hl=en"
